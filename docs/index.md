@@ -1,11 +1,21 @@
-# Obsidian Notes
+---
+title: Bienvenido a blog.vcano5.com
+---
 
-Publish your public notes with MkDocs
+En esta bóveda colocaré los enlaces interesantes para evitar perder aquellos que encuentro. También para prevenir la pérdida de enlaces en Discord debido a la pérdida de la cuenta o al exceso de enlaces.
+s
 
-## Hello World!
+### Sitios
+- [[Lazytainer]]
+- [[Odoo]]
+- [[Paperless-ngx]]
+- [[PRIVACY.SEXY]]
+- [[Stirling PDF]]
+- [[Tdarr]]
+- [[Trudesk]]
+- [[Use an old Mobile Phone as a GSM Gateway in Asterisk]]
+- [[wger]]
 
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+### Documentos
+- [[Instant Neural Graphics Primitives]]
+- [[Simultaneous and Heterogenous Multithreading]]

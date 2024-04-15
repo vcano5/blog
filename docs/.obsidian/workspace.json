@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "wger.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "wger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "wger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "wger.md"
               }
             }
           }
@@ -148,21 +148,21 @@
   },
   "active": "db5bec7077d880f0",
   "lastOpenFiles": [
-    "Odoo.md",
-    "Bienvenido.md",
-    "index.md",
-    "Paperless-ngx.md",
-    "Simultaneous and Heterogenous Multithreading.md",
+    "Use an old Mobile Phone as a GSM Gateway in Asterisk.md",
+    "Trudesk.md",
     "Tdarr.md",
     "Stirling PDF.md",
-    "Lazytainer.md",
-    "Trudesk.md",
-    "Use an old Mobile Phone as a GSM Gateway in Asterisk.md",
-    "wger.md",
+    "Simultaneous and Heterogenous Multithreading.md",
     "PRIVACY.SEXY.md",
-    "templates/sitio_interesante.md",
-    "templates/documento_interesante.md",
+    "Paperless-ngx.md",
+    "Lazytainer.md",
     "Instant Neural Graphics Primitives.md",
+    "Odoo.md",
+    "templates/sitio_interesante.md",
+    "index.md",
+    "templates/documento_interesante.md",
+    "Bienvenido.md",
+    "wger.md",
     "templates"
   ]
 }

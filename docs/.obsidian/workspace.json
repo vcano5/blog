@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wger.md",
+                "file": "Instant Neural Graphics Primitives.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wger.md",
+                "file": "Instant Neural Graphics Primitives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wger.md",
+                "file": "Instant Neural Graphics Primitives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wger.md"
+                "file": "Instant Neural Graphics Primitives.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "db5bec7077d880f0",
   "lastOpenFiles": [
+    "wger.md",
     "Use an old Mobile Phone as a GSM Gateway in Asterisk.md",
     "Trudesk.md",
     "Tdarr.md",
@@ -162,7 +163,6 @@
     "index.md",
     "templates/documento_interesante.md",
     "Bienvenido.md",
-    "wger.md",
     "templates"
   ]
 }
